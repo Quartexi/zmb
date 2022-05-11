@@ -1,0 +1,13 @@
+F:\Entwicklung\Zombie\Zombie\Zombie\bin\Debug\netcoreapp3.1\Zombie.exe
+F:\Entwicklung\Zombie\Zombie\Zombie\bin\Debug\netcoreapp3.1\Zombie.deps.json
+F:\Entwicklung\Zombie\Zombie\Zombie\bin\Debug\netcoreapp3.1\Zombie.runtimeconfig.json
+F:\Entwicklung\Zombie\Zombie\Zombie\bin\Debug\netcoreapp3.1\Zombie.runtimeconfig.dev.json
+F:\Entwicklung\Zombie\Zombie\Zombie\bin\Debug\netcoreapp3.1\Zombie.dll
+F:\Entwicklung\Zombie\Zombie\Zombie\bin\Debug\netcoreapp3.1\Zombie.pdb
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.csprojAssemblyReference.cache
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.AssemblyInfoInputs.cache
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.AssemblyInfo.cs
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.csproj.CoreCompileInputs.cache
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.dll
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.pdb
+F:\Entwicklung\Zombie\Zombie\Zombie\obj\Debug\netcoreapp3.1\Zombie.genruntimeconfig.cache
