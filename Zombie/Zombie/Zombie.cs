@@ -4,15 +4,10 @@ using System.Text;
 
 namespace Zombie {
     class Zombie : IZombie {
-
-        public string name;
-        public Zombie(string name) {
+        string name;
+        public Zombie(IMap map, string name) {
             this.name = name;
-        }
-
-        public void EnterMap(Map map, Observer observer) {
-            map.RegisterZombie(this, map);
-            observer.Update(map);
+            map.enterMap(this);
         }
     }
 }

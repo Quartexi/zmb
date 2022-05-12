@@ -4,19 +4,13 @@ using System.Text;
 
 namespace Zombie {
     class Jäger : IJäger {
-
-        public string name;
-        public Jäger(string name) {
+        string name;
+        public Jäger(IMap map, string name) {
             this.name = name;
+            map.Subscribe(this);
         }
-
-        public void RegisterMap(Map map, Observer observer) {
-            Console.WriteLine($"Jäger {this.name} ist der Karte {map.name} zugeordnet");
-            observer.AddList(this, map);
-        }
-
-        public void Notify() {
-            Console.WriteLine($"{this.name} ist informiert");
+        public void Update() {
+            Console.WriteLine($"Jäger {name} wurde benachrichtigt");
         }
     }
 }

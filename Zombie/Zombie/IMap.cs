@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Zombie {
-    interface IMap {
-        void RegisterZombie(Zombie zombie, Map map);
+    public interface IMap : IObservable {
+        public void enterMap(IZombie zombie);
     }
 }
